@@ -14,8 +14,6 @@ public class AddRemoveElementsTest {
         boolean IsDisplay=driver.findElement(By.xpath("//*[@id=\"elements\"]/button")).isDisplayed();
         Assert.assertTrue(IsDisplay);
         driver.quit();
-
-
-        //ghgg
+//fyjfg
     }
 }
